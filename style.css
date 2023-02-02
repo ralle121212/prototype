@@ -1,0 +1,25 @@
+body {
+    margin: 110px;
+    border: 10px;
+    border-radius: 10px;   
+    border-color: blue;
+    background-color: antiquewhite;
+}
+
+#heading {
+    margin-bottom: 40px;
+    border-radius: 5px;
+    border-color: blue;
+}
+
+#nyhet1 {
+    padding: 10px;
+    margin: 10px;
+
+}
+
+#nyhet2  {
+    padding: 10px;
+    margin: 10px;
+}
+
